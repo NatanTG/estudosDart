@@ -1,4 +1,3 @@
-import 'dart:ffi';
 
 void main(){
   //Null safety é desabilitado pelo "?"
