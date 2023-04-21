@@ -1,0 +1,4 @@
+enum Tarefas {
+  tirarOlixo,
+  lavarLouca,
+}
