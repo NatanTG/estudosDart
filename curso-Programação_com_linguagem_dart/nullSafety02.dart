@@ -1,9 +1,8 @@
-
-void main(){
+void main() {
   //Null safety é desabilitado pelo "?"
   String? nome;
   nome = "abc";
-  print(nome!);
+  print(nome);
   nome = null;
 
   late String nome2;
